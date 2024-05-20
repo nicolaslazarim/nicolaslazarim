@@ -2,7 +2,7 @@
 
 Meu nome é Nicolas
 
-- Estou estudando programação pelo Alura;
+- Estou estudando programação pelo [Alura](https://www.alura.com.br/)
 - Atualmente estou desenvolvendo na Linguagem JavaScript;
 - Utilizo esse espaço para minha organização e para o compartilhamento de projetos
 
